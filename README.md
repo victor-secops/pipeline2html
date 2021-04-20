@@ -1,6 +1,6 @@
 # pipeline2html
-generates a human-readable .HTML file from the Veracode pipeline verification results.json file.
-tested in python 3.7
+generates a human-readable .HTML file from the Veracode pipeline verification results.json file.<br />
+tested in python 3.7<br />
 
 # How to Use
 <p>
