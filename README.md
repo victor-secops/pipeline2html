@@ -1,7 +1,8 @@
 # pipeline2html
-generates a human-readable .HTML file from the Veracode pipeline verification results.json file.<br />
+performs the pipeline scan and generates an human-readable html file with the result of the analysis.<br />
 tested in python 3.7<br />
-
+System Requirements for Veracode Pipeline Scan:<br />
+You must have installed Java 8 or later.<br />
 # How to Use
 <p>
 In directory where requirements.txt is located.<br />
