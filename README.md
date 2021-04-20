@@ -14,4 +14,6 @@ extract pipelinescan to the same folder as the python script.<br />
 
 Run python script<br />
 
+Open pipeline-report.html in same folder as the python script<br />
+
 </p>
