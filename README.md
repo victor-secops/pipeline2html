@@ -8,6 +8,8 @@ You must have installed Java 8 or later.<br />
 In directory where requirements.txt is located.<br />
 run: pip install -r requirements.txt to install json2html package.<br />
 Edit the code to insert your Veracode credentials in --veracode_api_id and --veracode_api_key parameters.<br />
+follow this guide to Packaging Requirements and change the parameter --file to the name of the application artifact like a application.zip or application.jar
+https://help.veracode.com/r/c_pipeline_scan_packaging
 
 Obtain the Pipeline Scan Files in https://downloads.veracode.com/securityscan/pipeline-scan-LATEST.zip<br />
 
