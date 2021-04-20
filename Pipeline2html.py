@@ -6,7 +6,7 @@ import re
 jsonfile = 'results.json'
    
 def pipelinescan():
-    os.system('java -jar pipeline-scan.jar --veracode_api_id "api id" --veracode_api_key "api key" --file "aplicação para analise.zip" --issue_details true  --json_output true --filtered_json_output_file filtered.json')
+    os.system('java -jar pipeline-scan.jar --veracode_api_id "api id" --veracode_api_key "api key" --file "application.zip" --issue_details true  --json_output true --filtered_json_output_file filtered.json')
 
 def getHTML():
     with open(jsonfile) as json_file:
